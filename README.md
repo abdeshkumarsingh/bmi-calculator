@@ -1,16 +1,29 @@
-# bmi_calculator
+<h1 align="center" id="title">BMI Calculator</h1>
 
-A new Flutter project.
+<p align="center"><img src="https://socialify.git.ci/abdeshkumarsingh/bmi-calculator/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-## Getting Started
+<p id="description">A simple BMI calculator app that can calculate your BMI. and give suggestion on the basis of BMI result.</p>
 
-This project is a starting point for a Flutter application.
+<h2>Project Screenshots:</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://i.imghippo.com/files/jD6tM1719313076.png" alt="project-screenshot" width="300" height="650/">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://i.imghippo.com/files/eTSlV1719312980.png" alt="project-screenshot" width="300" height="650/">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Calculate BMI
+*   Show suggestion According to BMI result
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Flutter
+*   Dart
